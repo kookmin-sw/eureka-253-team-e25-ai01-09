@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gSldEXG6)
-# Welcome to ○팀
+# Welcome to 9팀
 
 ## 1️⃣ 팀원 소개
 
@@ -7,7 +7,7 @@
 | --- | --- | --- |
 | **홍길동** | 인공지능전공 | 해외인턴, 인공지능, 프론트엔드 |
 | **김영희** | 인공지능전공 | 보안, 프론트엔드, 백엔드, 인공지능 |
-| **이철수** | 인공지능전공 | 알고리즘, 시스템 프로그래밍, 스타트업 |
+| **유현민** | 인공지능전공 | 해외인턴, 인공지능, 스타트업 |
 | **박민수** | 인공지능전공 | UX/UI, 모바일 앱, 창업 |
 | **최지현** | 인공지능전공 | 분산 시스템, 데이터베이스, 오픈소스 |
 
