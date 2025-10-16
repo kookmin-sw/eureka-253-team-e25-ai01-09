@@ -213,6 +213,10 @@ Sixth Sense의 구현 방식은 목걸이 형태의 웨어러블 하드웨어와
 
 마지막으로, 선정된 아이디어와 기술의 전체적인 모습을 한눈에 파악할 수 있도록 AI 이미지를 제작하는 활동을 진행했다. 
 
+<img width="864" height="1184" alt="Image" src="https://github.com/user-attachments/assets/10e43875-c18b-4c00-9112-25883db0d888" />
+
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/32606a55-ae7f-4f23-8d02-5c0beb626d03" />
+
 </details>
 
 ***
